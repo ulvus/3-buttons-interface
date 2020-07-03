@@ -1,2 +1,2 @@
-# 3butTon
-win10 interface to ipfs, eth and filecoin
+# hackfs-interface
+Interface to ipfs, eth and filecoin
