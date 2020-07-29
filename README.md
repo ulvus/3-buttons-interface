@@ -1,5 +1,5 @@
-# Reward use of file
+# 3 buttons interface
 
 Hackfs Project july 2020
 
-Reward use of file, in ipfs and eth eco system. A research and documentation hack
+3 buttons to click and trigger a action each, for contacts, payments, or files
