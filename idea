@@ -8,29 +8,48 @@ Make better ux ui and other changes, so windows users, mostly people with specia
 
 Click one of the 3 buttons, and can work directly with that option
 
-Primary Hackfs button
-Windows and ipfs files option
+Primary Hack: button choice
+file 
+  -   Windows
+  -   ipfs
 
-Secondary hack button
-Microsoft and web3 contact option
+Secondary hack: button choice
+contact
 
-Future hack button
-Eth and filecoin payment option
+  -   Microsoft
+  -   web3
 
-Primary hackfs user
-Special need, adhd autism
+Future hack: button choice
+payment
+  -   Eth
+  -   filecoin
 
-Secondary hack user
-Microsoft and chromium
+Primary hack: user choice
+Login
+  -   Special need
+  -   adhd
 
-Future hack user
-Support and admin
+Secondary hack: user choice
+Login
+  -  Microsoft
+  -  chromium
 
-Primary hackfs contribute
-Ulvus and google
+Future hack: user choice
+Login
+  -   Support
+  -   admin
 
-Secondary hack contribute
-Designer and hacker
+Primary hack: contribute choice
+Personal
+  -   Ulvus
+  -   Other
 
-Future hack
-Microsoft and ipfs
+Secondary hack contribute choice
+Microsoft
+  -   Designer
+  -   hacker
+
+Future hack: contribute choice
+Valuta
+  -   eth
+  -   Filecoin
