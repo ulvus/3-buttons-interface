@@ -3,6 +3,6 @@
 
 HackFS Project july 2020
 
-Button to click and trigger the action, for use of: file
+Button to click and trigger the action: file
 
 Hacking by Ulvus
