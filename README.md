@@ -1,5 +1,8 @@
-# 3 buttons interface
+# 3bi
+3 buttons interface
 
-Hackfs Project july 2020
+HackFS Project july 2020
 
-3 buttons to click and trigger a action each, for contacts, payments, or files
+Button to click and trigger the action, for use of: file
+
+Hacking by Ulvus
