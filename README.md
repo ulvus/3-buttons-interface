@@ -1,8 +1,12 @@
-# 3bi
-3 buttons interface
+# 3bi 
+
+3 buttons interface to web3
+
+File, social, and valuta
 
 HackFS Project july 2020
 
-Button to click and trigger the action: file
+Ulvus click and trigger the action button:
 
-Hacking by Ulvus
+                FILE
+
